@@ -70,9 +70,18 @@
             "note": null,
             "paint": null,
             "colors": "#fbbc04"
-        }
-    ],
-    "remainder": [{
+        },
+        {
+            "title": "Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.” – Socrates",
+            "id": 60428014,
+            "urls": null,
+            "date": null,
+            "time": null,
+            "note": null,
+            "paint": null,
+            "colors": "#e6c9a8"
+        },
+        {
             "title": "“Work like there is someone working twenty four hours a day to take it away from you.”",
             "id": 2,
             "urls": null,
@@ -91,9 +100,9 @@
             "note": null,
             "paint": null,
             "colors": "#aecbfa"
-        },
-
-        {
+        }
+    ],
+    "remainder": [{
             "title": "“Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo Da Vinci, Thomas Jefferson, and Albert Einstein.”",
             "id": 17,
             "urls": null,
